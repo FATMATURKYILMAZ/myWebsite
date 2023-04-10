@@ -7,6 +7,8 @@
     <title>Responsive personel website</title>
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"
+/>
 </head>
 <body>
     <header class="header">
@@ -160,6 +162,62 @@
       </div>
       </div>
     </section>
+    <div class="testimonial-container">
+      <h2 class="heading">Valuable <span>Testimonial</span></h2>
+
+      <div class="testimonial-wrapper">
+        <div class="testimonial-box mySwiper">
+          <div class="testimonial-content swiper-wrapper">
+            <div class="testimonial-slide swiper-slide">
+              <img src="images\testi1.jpg" alt="">
+              <h3>Lina Levi</h3>
+              <p>My department is computing. I am an expert in data mining. 
+              I perform all the operations of the data.</p>
+            </div> 
+          <div class="testimonial-slide swiper-slide">
+            <img src="images\testi2.jpg" alt="">
+            <h3>Jackson Milon</h3>
+            <p>My department is computing. I am an expert in web developer. 
+            I perform all the operations of the web.</p>
+          </div> 
+        <div class="testimonial-slide swiper-slide">
+          <img src="images\testi3.jpg" alt="">
+          <h3>Bella Limi</h3>
+          <p>My department is computing. I am an expert in artificial intelligent. 
+          I perform all the operations of the AI.</p>
+        </div> 
+      </div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-pagination"></div>
+        </div>
+      </div>
+    </div>
+    <section class="contact" id="contact">
+      <h2 class="heading">Contact <span>Me</span></h2>
+      <form action="#">
+            <div class="input-box">
+              <input type="text" placeholder="Full Name">
+              <input type="email" placeholder="Email Address">
+            </div>
+            <div class="input-box">
+              <input type="number" placeholder="Mobile Number">
+              <input type="email" placeholder="Email Subject">
+            </div>
+            <textarea name="" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
+            <input type="submit" value="Send Message" class="btn">
+      </form>
+    </section>
+
+    <footer class="footer">
+      <div class="footer-text">
+        <p>Copyright &copy;2023 Fatma TÜRKYILMAZ | All Right Reserved</p>
+      </div>
+      <div class="footer-iconTop">
+        <a href="#home<i class='bx bx-up-arrow-alt'></i></a>
+      </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
