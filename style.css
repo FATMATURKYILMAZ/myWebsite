@@ -23,7 +23,7 @@ html{
     overflow-x:hidden;
 }
 body{
-    background: var(--bg-color);
+    background: var(--shadow-color);
     color: var(--text-color);
 }
 .header{
@@ -60,6 +60,10 @@ body{
 }
 .header.sticky.navbar a.active{
     color: var(--main-color);
+}
+.contact p{
+    font-size: 500;
+    color: rgb(242, 248, 241);
 }
 .navbar a.active::before{
     content: '';
@@ -503,4 +507,21 @@ span{
 .footer-text p{
     font-size: 1.6rem;
     color: var(--white-color);
+}
+
+@media(max-width:1200px){
+    html{
+        font-size: 55%;
+    }
+    .home .profession-container{
+        height: 85.8rem;
+    }
+
+    .home .profession-container .profession-box{
+        right: -12rem;
+        height: 85.8rem;
+    }
+    .home .profession-container .overlay{
+        right: -9rem;
+    }
 }
