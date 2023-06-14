@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\c#\tcKontrol\tcKontrol\obj\Debug\tcKontrol.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\c#\tcKontrol\tcKontrol\obj\Debug\tcKontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\c#\tcKontrol\tcKontrol\obj\Debug\tcKontrol.Form1.resources
+C:\Users\ASUS\Desktop\c#\tcKontrol\tcKontrol\obj\Debug\tcKontrol.Properties.Resources.resources
+C:\Users\ASUS\Desktop\c#\tcKontrol\tcKontrol\obj\Debug\tcKontrol.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\c#\tcKontrol\tcKontrol\obj\Debug\tcKontrol.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c#\tcKontrol\tcKontrol\bin\Debug\tcKontrol.exe.config
+C:\Users\ASUS\Desktop\c#\tcKontrol\tcKontrol\bin\Debug\tcKontrol.exe
+C:\Users\ASUS\Desktop\c#\tcKontrol\tcKontrol\bin\Debug\tcKontrol.pdb
+C:\Users\ASUS\Desktop\c#\tcKontrol\tcKontrol\obj\Debug\tcKontrol.exe
+C:\Users\ASUS\Desktop\c#\tcKontrol\tcKontrol\obj\Debug\tcKontrol.pdb
